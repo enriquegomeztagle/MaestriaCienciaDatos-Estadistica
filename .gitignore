@@ -172,3 +172,5 @@ cython_debug/
 
 ########################### CUSTOM ###########################
 .DS_Store
+.Rproj.user
+*.Rproj
